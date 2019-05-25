@@ -3,10 +3,13 @@ __CFA Level 3 Candidate, CA, MBA__
 
 Contact
 
-- 8928 Beacon Lakes Dr, Apt-106,Tampa -33615
-- 8635109175 (Work)
-- [Mail](galab.bista@spartans.ut.edu)
-- [Linked in](www.linkedin.com/in/galabbista)
+ 8928 Beacon Lakes Dr, Apt-106,Tampa -33615
+ 
+ 8635109175 (Work)
+ 
+ [Mail](galab.bista@spartans.ut.edu)
+
+[Linked in](www.linkedin.com/in/galabbista)
 
 
 ### Top Skills
@@ -135,7 +138,8 @@ April 2008 - October 2011 (3 years 7 months) New Delhi, India
     _**Chartered Accountant, Finance, Costing, Accounts, IT · (2008 - 2011)**_
 
 - Ace Institute of Management
-EMBA, Finance and Managment · (2014 - 2016)
-BNKS
+
+    _**EMBA, Finance and Managment · (2014 - 2016)
+BNKS**_
 
 - A-Levels, PCBME · (2005 - 2007)
