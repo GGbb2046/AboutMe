@@ -139,7 +139,9 @@ April 2008 - October 2011 (3 years 7 months) New Delhi, India
 
 - Ace Institute of Management
 
-    _**EMBA, Finance and Managment · (2014 - 2016)
-BNKS**_
+    _**EMBA, Finance and Managment · (2014 - 2016)**_
 
-- A-Levels, PCBME · (2005 - 2007)
+
+
+- BNKS
+    _**A-Levels, PCBME · (2005 - 2007)**_
