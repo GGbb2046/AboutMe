@@ -106,6 +106,7 @@ Jun 2018 – Aug 2018**
     Moreover, we co-partnered with BU's across the Asian markets to gather intel and deploy the module in partnership with Tectura. I would say a great opportunity to comprehend the dynamics of the ERP system. 
 
     _Project Details:_
+    
     - Deployment of Approver, maker and checker system at the Blanket PO's for BOM items, PRN for service and other purchases, PO, GRN and Invoice.
     - Alignment of the approval system and its validation against SOD matrix and the Chart of Authority.
     - Supply Chain - Procurement & Production integration in NAV along with Asset maintenance module
