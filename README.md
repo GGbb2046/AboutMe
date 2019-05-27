@@ -1,15 +1,15 @@
 ## Galab Bista
 __CFA Level 3 Candidate, CA, MBA__
 
-Contact
+### Contact
 
  8928 Beacon Lakes Dr, Apt-106,Tampa -33615
  
  8635109175 (Work)
  
-![Mail](galab.bista@spartans.ut.edu)
+#### Mail (galab.bista@spartans.ut.edu)
 
-![Linked in](www.linkedin.com/in/galabbista)
+#### Linked in (www.linkedin.com/in/galabbista)
 
 
 ### Top Skills
