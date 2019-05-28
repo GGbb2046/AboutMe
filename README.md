@@ -95,7 +95,7 @@ Sep 2018 – Oct 2018**
     All in all a solid collaboration of our Carlsberg Asian entities.
 
 
-3.  **Project nameP2P standardization - ERP: Microsoft Dynamics Navision - Lead
+3.  **P2P standardization - ERP: Microsoft Dynamics Navision - Lead
 Jun 2018 – Aug 2018**
 
     _Project description_
@@ -132,7 +132,7 @@ May 2015 – Aug 2015**
 
     A thorough understanding of the ERP system is what we, the finance and IT team received. - Great learning
 
-6. **Project nameChart of Accounts - IFRS standardization - lead
+6. **Chart of Accounts - IFRS standardization - lead
 Sep 2013**
 
     _Project description_
